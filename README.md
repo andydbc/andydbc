@@ -1,19 +1,26 @@
-![](img/cover.jpg)
+![](img/cover.jpg) \
+Andy Duboc (b. 1988 in Paris, France) is a French digital artist and designer who uses code to express his creative vision.
 
-<p>👋 Hi, I'm Andy, a Generative Designer based in Montreal, Canada.</p>
+He graduated in 2013 with a Master of Science from Université Lyon 2, France, and worked in the video game industry for almost 10 years thereafter.
 
-<p>I graduated in 2013 with a Master in Computer Science from Université Lyon II. I have a robust background in the video game industry with over 10 years of experience at compagnies like Ubisoft and EA Motive.</p>
+Shifting his focus to explore the possibilities of crafting digital imagery and motion using code, he aims to create visuals that are constantly evolving and dynamic.
 
-<p>Since 2019, I've embarked on a freelance journey, collaborating with teams at different studios around the world. This has led me to work with a wild range of technologies like Unity, C++, GLSL, JavaScript/Typescript and p5js.</p>
+**Contact**
 
-I'm always available for a quick chat, talk about projects and collaborations! Feel free to say hi at <a@andbc.co>
+**General Inquiries** \
+<a@andbc.co> \
+[Mentoring](https://www.instagram.com/andyduboc/)
 
-## Socials
+**Socials** \
+[x](https://x.com/andyduboc) \
+[Instagram](https://www.instagram.com/andyduboc) \
+[Linkedin](https://www.linkedin.com/in/andbc/) \
+[GitHub](https://github.com/andydbc)
 
-For a glimpse of my personal work, check out the following links:
-* [Instagram](https://www.instagram.com/andyduboc/)<br/>
-* [Twitter](https://twitter.com/andyduboc)<br/>
-* [Website](https://andbc.co/)<br/></p>
+**Art** \
+[SuperRate](https://superrare.com/andbc) \
+[fx(hash)](https://www.fxhash.xyz/u/andbc) \
+[objk](https://objkt.com/users/andbc)
 <!--
 **andydbc/andydbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
