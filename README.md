@@ -9,7 +9,7 @@ Shifting his focus to explore the possibilities of crafting digital imagery and 
 
 **General Inquiries** \
 <a@andbc.co> \
-[Mentoring](https://www.instagram.com/andyduboc/)
+[Mentoring](https://cal.com/andbc/1-on-1-mentoring)
 
 **Socials** \
 [x](https://x.com/andyduboc) \
