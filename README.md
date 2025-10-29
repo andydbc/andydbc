@@ -1,6 +1,4 @@
-![](img/cover.jpg) \
-
-art_code_design.
+![](img/cover.jpg)
 
 **Contact**
 
