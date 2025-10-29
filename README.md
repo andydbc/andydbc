@@ -1,9 +1,6 @@
 ![](img/cover.jpg) \
-Andy Duboc (b. 1988 in Paris, France) is a French digital artist and designer who uses code to express his creative vision.
 
-He graduated in 2013 with a Master of Science from Université Lyon 2, France, and worked in the video game industry for almost 10 years thereafter.
-
-Shifting his focus to explore the possibilities of crafting digital imagery and motion using code, he aims to create visuals that are constantly evolving and dynamic.
+art_code_design.
 
 **Contact**
 
@@ -20,7 +17,7 @@ Shifting his focus to explore the possibilities of crafting digital imagery and 
 **Art** \
 [SuperRate](https://superrare.com/andbc) \
 [fx(hash)](https://www.fxhash.xyz/u/andbc) \
-[objk](https://objkt.com/users/andbc)
+[objkt](https://objkt.com/users/andbc)
 <!--
 **andydbc/andydbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
