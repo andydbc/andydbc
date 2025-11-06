@@ -9,7 +9,7 @@
 **Socials** \
 [x](https://x.com/andyduboc) \
 [Instagram](https://www.instagram.com/andyduboc) \
-[Linkedin](https://www.linkedin.com/in/andbc/) \
+[Linkedin](https://www.linkedin.com/in/andbc/)
 
 **Art** \
 [SuperRate](https://superrare.com/andbc) \
