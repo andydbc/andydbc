@@ -10,7 +10,6 @@
 [x](https://x.com/andyduboc) \
 [Instagram](https://www.instagram.com/andyduboc) \
 [Linkedin](https://www.linkedin.com/in/andbc/) \
-[GitHub](https://github.com/andydbc)
 
 **Art** \
 [SuperRate](https://superrare.com/andbc) \
